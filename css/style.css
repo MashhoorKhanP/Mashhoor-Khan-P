@@ -739,12 +739,12 @@ i.respons {
 .portfolio img {
 	height:300px;
 	width:100%;
+	object-fit: cover;
 }
 
 .portfolio-image{
 
 	width: 100%;
-	height: auto;
 
 }
 
